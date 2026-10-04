@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+
+# Raw banking data
+data/raw/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
